@@ -1,3 +1,22 @@
 body {
   font-family: "Nunito", sans-serif;
 }
+#name {
+  color: cyan;
+}
+.half-width {
+  width: 50%;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 300px;
+}
+h1 {
+  font-size: 70px;
+}
+h3 {
+  font-size: 30px;
+}
+#text-3 {
+  color: darkcyan;
+}
